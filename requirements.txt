@@ -1,0 +1,16 @@
+APScheduler==3.6.3
+asgiref==3.2.10
+certifi==2020.6.20
+chardet==3.0.4
+Django==3.0.7
+idna==2.10
+PyJWT==1.7.1
+pytz==2020.1
+requests==2.24.0
+six==1.15.0
+sqlparse==0.3.1
+style==1.1.0
+twilio==6.43.0
+tzlocal==2.1
+update==0.0.1
+urllib3==1.25.9
